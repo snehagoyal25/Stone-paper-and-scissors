@@ -20,4 +20,11 @@ img{
     height:150px;
     width:150px;
     object-fit: cover;
+    border-radius:50%;
+}
+
+.choices{
+    display: flex;
+    justify-content:center;
+    align-items:center;
 }
